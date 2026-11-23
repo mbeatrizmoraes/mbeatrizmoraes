@@ -8,4 +8,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Impacta (conclusão p
 
 📂 Meus exercícios de Python: [python-curso-em-video](https://github.com/mbeatrizmoraes/python-curso-em-video)
 
-📫 [LinkedIn](https://www.linkedin.com/in/maria-beatriz-moraes-9bb800181)
+📫 [LinkedIn](https://www.linkedin.com/in/maria-beatriz-moraes)
